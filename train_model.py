@@ -6,7 +6,7 @@ import pandas as pd
 import cv2
 import numpy as np
 
-data = pd.read_csv('fer2013.csv')
+data = pd.read_csv('dataset.csv')
 
 pixels = data['pixels'].tolist()
 labels = data['emotion'].tolist()
