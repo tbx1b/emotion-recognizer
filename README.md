@@ -1,5 +1,7 @@
 # Real-time Facial Emotion Recognition with TensorFlow and OpenCV
 
+![Screenshot from 2024-01-19 16-24-09](https://github.com/tbx1b/emotion-recognizer/assets/52511255/26f66093-79fb-49c7-9ea2-7cb5421608b4)
+
 This project utilizes TensorFlow and OpenCV for real-time facial emotion recognition using a webcam. It also uses TensorFlow to train the AI model to reocognize emotions via the face using the FER-2013 dataset.
 
 ### Prerequisites
